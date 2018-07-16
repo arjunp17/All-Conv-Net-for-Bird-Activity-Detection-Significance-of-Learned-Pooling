@@ -9,4 +9,4 @@ Bird activity detection (BAD) deals with the task of predicting the presence or 
 
 
 
-more about the challenge and the data can be downloaded at here http://machine-listening.eecs.qmul.ac.uk/bird-audio-detection-challenge/
+To know more about BAD 2017 challenge and to download data, follow this link http://machine-listening.eecs.qmul.ac.uk/bird-audio-detection-challenge/
