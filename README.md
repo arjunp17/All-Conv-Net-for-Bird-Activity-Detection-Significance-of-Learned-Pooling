@@ -6,3 +6,7 @@ Bird activity detection (BAD) deals with the task of predicting the presence or 
      all_convnet_BAD_maxpool_variant.py is the maxpool variant of the all_conv_net model
      get_activation_map.py is used to analyse any layer activations in the model
 
+
+
+
+more about the challenge and the data can be downloaded at here http://machine-listening.eecs.qmul.ac.uk/bird-audio-detection-challenge/
